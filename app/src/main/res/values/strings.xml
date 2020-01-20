@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_test">test</string>
+    <string name="overview_test">test</string>
+    <string name="premanpensiun">Preman Pensiun</string>
+    <string name="aquaman">Aquaman</string>
+    <string name="avenger">Avenger Infinity War</string>
+    <string name="birdbox">Bird Box</string>
+    <string name="bohemian">Bohemian Rhapsody</string>
+    <string name="bumblebee">Bumblebee</string>
+    <string name="creed">Creed II</string>
+    <string name="deadpool">Once Upon a Deadpool</string>
+    <string name="venom">Venom</string>
+    <string name="dragonball">Dragon Ball Super : Broly</string>
+    <string name="ov_bohemian">Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</string>
+    <string name="ov_bumblebee">On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</string>
+    <string name="ov_birdbox">Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</string>
+    <string name="ov_creed">Between personal obligations and training for his next big fight against an opponent with ties to his family\\\'s past, Adonis Creed is up against the challenge of his life.</string>
+    <string name="ov_venom">Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</string>
+    <string name="ov_deadpool"><![CDATA[A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder & zero F\'s.]]></string>
+    <string name="ov_dragonball">Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called \'Broly\' who they\'ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what\'s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.</string>
+    <string name="ov_premanpensiun">After three years, the business of Muslihat (Epi Kusnandar), who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira (Safira Maharani), her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</string>
+    <string name="ov_aquaman">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="ov_avenger">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string name="terminator">Terminator : Dark Fate</string>
+    <string name="ov_terminator">More than two decades have passed since Sarah Connor prevented Judgment Day, changed the future, and re-wrote the fate of the human race. Dani Ramos is living a simple life in Mexico City with her brother and father when a highly advanced and deadly new Terminator – a Rev-9 – travels back through time to hunt and kill her. Dani\'s survival depends on her joining forces with two warriors: Grace, an enhanced super-soldier from the future, and a battle-hardened Sarah Connor. As the Rev-9 ruthlessly destroys everything and everyone in its path on the hunt for Dani, the three are led to a T-800 from Sarah’s past that may be their last best hope.</string>
+    <string name="maleficent">Maleficent : Mistress of Evil</string>
+    <string name="ov_maleficent">Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.</string>
+    <string name="joker">Joker</string>
+    <string name="ov_joker">During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.</string>
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="ov_ram">Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty\'s already unstable family life, these events cause Morty much distress at home and school.</string>
+    <string name="ram">Rick and Morty</string>
+    <string name="fbi">FBI</string>
+    <string name="ov_fbi">The elite unit of the New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.</string>
+    <string name="bwwd">Best.Worst.Weekend.Ever</string>
+    <string name="ov_bwwd">Teenage friends plan an epic trip to Comic-Con to meet their idol, only to get caught in one hilariously awkward predicament after another.</string>
+    <string name="k">Krypton</string>
+    <string name="ov_k">Set two generations before the destruction of the legendary Man of Steel’s home planet, Krypton follows Superman’s grandfather — whose House of El was ostracized and shamed — as he fights to redeem his family’s honor and save his beloved world from chaos.</string>
+    <string name="ov_tr">A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.</string>
+    <string name="tr">The Resident</string>
+    <string name="t_911">911</string>
+    <string name="ov_911">Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.</string>
+    <string name="brit">Britannia</string>
+    <string name="ov_brit">An epic drama set in 43AD as the Roman Imperial Army – determined and terrified in equal measure - returns to crush the Celtic heart of Britannia - a mysterious land ruled by warrior women and powerful druids who can channel the powerful forces of the underworld. Or so they say.</string>
+    <string name="t">Titans</string>
+    <string name="ov_t">A team of young superheroes led by Nightwing (formerly Batman\'s first Robin) form to combat evil and other perils.</string>
+    <string name="jr">Tom Clancy\'s Jack Ryan</string>
+    <string name="ov_jr">When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.</string>
+    <string name="cr">Castle Rock</string>
+    <string name="ov_cr">Based on the stories of Stephen King, the series intertwines characters and themes from the fictional town of Castle Rock.</string>
+
+</resources>
